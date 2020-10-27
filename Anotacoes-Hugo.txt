@@ -1,0 +1,37 @@
+Material:
+    http://www.professorisidro.com.br/wp-content/uploads/java/
+
+1043, 1048
+
+A + B > C
+B+C > A
+A+C > B
+
+Gustavo Guanabara - Phyton
+
+https://www.cursoemvideo.com/
+https://www.professorisidro.com.br/
+
+--- manual  - git Hub
+http://www.professorisidro.com.br/manual-de-sobrevivencia-do-github/
+
+1046 - número para horas 
+1047 - número horas e minutos
+
+--GitHub - Isidro
+https://github.com/professorisidro/java_uri10
+https://github.com/professorisidro/workspace_java10 <--- do curso
+https://github.com/professorisidro/workspace_java
+
+Ferramenta: JDK Mission Control (ferramenta de monitoração da JVM)
+--Download
+https://github.com/git-for-windows/git/releases/download/v2.29.0.windows.1/Git-2.29.0-64-bit.exe
+
+Conta: hugozel@gmail.com
+
+https://github.com/hugozel/JAVA.git
+https://github.com/hugozel/Biblioteca.git
+
+
+--videos Youtube
+https://www.youtube.com/watch?v=jF9_7OWogIE ---> Herança
